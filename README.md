@@ -6,3 +6,5 @@ https://greggelong.github.io/logistic-map
 
 link to complexity stuff:
 
+https://github.com/greggelong/complexity
+
