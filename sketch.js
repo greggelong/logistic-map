@@ -11,6 +11,10 @@ function setup() {
   graph = createGraphics(300,160);
   graph.clear();
   showgraph(2);
+  createP();
+  createP(); // put some space between button and link
+  createA('https://github.com/greggelong/logistic-map', 'link to this  repo');
+  
 }
  
 function draw(){
